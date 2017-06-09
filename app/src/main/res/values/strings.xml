@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="ask_error">加载失败</string>
+</resources>
